@@ -1,0 +1,16 @@
+﻿
+a,.location-zone,.site-plus-box a{color:#666;}
+.toper,.search-box,.main_center,ul.cate-box li a.logo-a,.location-zone,.site-plus-box,.categories{
+border-color: #ccc;
+}
+.search-tab ul li a.on,.location-zone,ul.cate-box li .site-plus-box a:HOVER {background-color: #ccc;}
+/*-------more------*/
+.site-list,.cate-box,.toper .logo{
+ border-color: #ccc;
+}
+.categories h1{
+border: 1px dashed #ccc;
+border-width:1px 0 1px 0;
+background: #eee;
+color:#333;
+}
